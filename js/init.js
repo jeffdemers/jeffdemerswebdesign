@@ -9,7 +9,7 @@
 
 $(document).ready(function(){
     $(".button-collapse").sideNav();
-  $('.parallax').parallax();
+    $('.parallax').parallax();
 });
 
 var url = data.url + "&output=embed";
