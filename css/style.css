@@ -66,3 +66,15 @@ footer.page-footer {
 body {
   background-color: whitesmoke;
 }
+
+.card-image {
+  height: 150px;
+}
+
+.card-image2 {
+  height: 30px;
+}
+
+.form {
+  color: white;
+}
