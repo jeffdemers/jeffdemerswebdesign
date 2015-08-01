@@ -73,6 +73,7 @@ body {
 
 .card-image2 {
   height: 30px;
+    width: inherit;
 }
 
 .form-text {
@@ -90,6 +91,11 @@ body {
 
 .header2 {
     color: red;
+}
+
+.side-nav {
+    background-color: black;
+
 }
 
 
