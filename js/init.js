@@ -12,8 +12,11 @@ $(document).ready(function(){
     $('.parallax').parallax();
 });
 
-//var url = data.url + "&output=embed";
-//window.location.replace(url);
+
+
+$(document).ready(function(){
+    $('.parallax').parallax();
+});
 
 
 
