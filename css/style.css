@@ -84,8 +84,12 @@ body {
 
 }
 
-#download-button {
-  background-color: red;
+#download-button{
+    background-color: red;
+}
+
+#submit-email{
+    background-color: red;
 
 }
 
@@ -96,6 +100,10 @@ body {
 .side-nav {
     background-color: black;
 
+}
+
+.textarea.materialize-textarea {
+   color: white;
 }
 
 
