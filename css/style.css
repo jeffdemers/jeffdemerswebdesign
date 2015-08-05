@@ -57,14 +57,11 @@ footer.page-footer {
 }
 
 .card {
-
   height: 400px;
-
-
 }
 
 body {
-  background-color: whitesmoke;
+  background-color: lightgrey;
 }
 
 .card-image {
@@ -81,7 +78,6 @@ body {
 }
 
 .card {
-
 }
 
 #download-button{
@@ -99,11 +95,14 @@ body {
 
 .side-nav {
     background-color: black;
-
 }
 
 .textarea.materialize-textarea {
    color: white;
+}
+
+.projects-page {
+    padding-bottom: 250px;
 }
 
 
